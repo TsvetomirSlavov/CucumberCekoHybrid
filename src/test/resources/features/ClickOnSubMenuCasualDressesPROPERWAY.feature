@@ -1,3 +1,4 @@
+@MyFeature
 Feature: Click on submenu Casual Dresses
   Scenario: Verify Women submenu and click Casual Dresses link
     When I open automationpractice website
