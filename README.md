@@ -15,3 +15,18 @@ automationpractice
 It does not save Excel Workbook in Eclipse, update the testcases manually from Excel
 
 Use shorter names for projects because there are issues accessing files when the path is too long!
+
+
+
+-----------------------
+
+Switch Driver in step_definitions.Hooks  SafariDriver is automatically supported in El Capitan and later /usr/bin/safaridriver   Enbale Developer  tab in menu bar in Safari and allow Remote Control
+
+Uspqh s moq test Cucumber ChromeDriver to samo si go nameri kogato go dobavih v path papkata s driverite i mina testa super lesno
+Demek sa SCALABLE skriptovete mi na vsichki mashini vyrvqt kogato se setupne na nova mashina virtual ili cloud
+1 Java
+2 Download Driver Chrome Gecko Safari install plugin for Mac
+3 Set paths, SDK, JDK dowload
+4 Jenkins Slaves
+5 Selenium Grid
+6 Maven direktno si smykva Selenium i ostanalite
