@@ -1,4 +1,4 @@
-cucumberjvm-selenium-pageObject
+cucumberjvm-selenium-pageObject Tsvetomir Slavov
 =====================
 
 Page Object Framework using cucumber jvm (java) and Selenium java.
